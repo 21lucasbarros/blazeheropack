@@ -1,0 +1,8 @@
+{
+    "sand.cloud": {
+      "sounds": [
+        "sounds/sand_cloud"
+      ],
+      "category": "player"
+    }
+}
